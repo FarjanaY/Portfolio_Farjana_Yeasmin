@@ -23,15 +23,15 @@ const Projects = () => {
           title="Moments Chronicles"
           des="With a passion for photography, I've embarked on a journey to present my photography through this immersive online platform. Here functionalities I have added are, user registration, user login, edit and delete own post and account, and posts can be sorted by user and categories."
           src={momentsChronicles}
-          gitLink="https://github.com/FarjanaY/Moments_Chronicles/tree/master"
-          webLink="https://github.com/FarjanaY"
+          gitLink="https://github.com/FarjanaY/Moments_Chronicles_MERN.git"
+          webLink="https://moments-chronicles-mern-front-end.onrender.com/"
         />
         <ProjectsCard
           title="Exercise Tracker App"
           des="A user-friendly MERN-stack application that enables individuals to easily track and manage their daily fitness routines. Features include adding exercises & users, also only existing users has ability to update & delete exercises."
           src={exerciseTracker}
-          gitLink="https://github.com/FarjanaY/Exercise_Tracker_App/tree/master"
-          webLink="https://github.com/FarjanaY"
+          gitLink="https://github.com/FarjanaY/Exercise_Tracker_App_Mern_Deploy.git"
+          webLink="https://exercise-tracker-app-mern-deploy-client.vercel.app/"
         />
 
         <ProjectsCard
@@ -39,8 +39,8 @@ const Projects = () => {
           des=" Smart doctor app helps doctors schedule and get appointments. 3 sections are available with dashboards & login (admin,
             doctor & patient). Patients can get appointments by login & medicines through delivery by completing their payment."
           src={doctorProject}
-          gitLink="https://github.com/FarjanaY/Smart-Doctor-App/tree/master"
-          webLink="https://github.com/FarjanaY"
+          gitLink="https://github.com/FarjanaY/Smart-Doctor-App_HTML.git"
+          webLink="https://smart-doctor-app-html.vercel.app/"
         />
         <ProjectsCard
           title="ToDo List Project"
